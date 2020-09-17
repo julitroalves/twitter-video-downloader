@@ -7,5 +7,4 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'TwitterVideoDownloader\\' => array($baseDir . '/src'),
-    'Chrisyue\\PhpM3u8\\' => array($vendorDir . '/chrisyue/php-m3u8/src'),
 );

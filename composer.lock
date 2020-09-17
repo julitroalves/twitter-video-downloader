@@ -4,61 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8c9defd3a0f5efd6824b2135010416af",
-    "packages": [
-        {
-            "name": "chrisyue/php-m3u8",
-            "version": "3.4.1",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/chrisyue/php-m3u8.git",
-                "reference": "9406659e72bb2c1cef07258474c7f35c3876f46b"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/chrisyue/php-m3u8/zipball/9406659e72bb2c1cef07258474c7f35c3876f46b",
-                "reference": "9406659e72bb2c1cef07258474c7f35c3876f46b",
-                "shasum": ""
-            },
-            "require": {
-                "php": ">=5.5"
-            },
-            "require-dev": {
-                "friendsofphp/php-cs-fixer": "^2",
-                "phpunit/phpunit": "^4"
-            },
-            "type": "library",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "3.4.x-dev"
-                }
-            },
-            "autoload": {
-                "psr-4": {
-                    "Chrisyue\\PhpM3u8\\": "src"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "chrisyue",
-                    "email": "blizzchris@gmail.com",
-                    "homepage": "https://chrisyue.com"
-                }
-            ],
-            "description": "PHP M3U8 parser / dumper",
-            "homepage": "http://chrisyue.com",
-            "keywords": [
-                "dumper",
-                "m3u8",
-                "parser"
-            ],
-            "time": "2020-03-07T15:29:48+00:00"
-        }
-    ],
+    "content-hash": "08ebf5526dcdae79aa52038dfebad00b",
+    "packages": [],
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",

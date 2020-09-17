@@ -11,20 +11,12 @@ class ComposerStaticInit7514775d9a6ccfc56371ca3cda461461
         array (
             'TwitterVideoDownloader\\' => 23,
         ),
-        'C' => 
-        array (
-            'Chrisyue\\PhpM3u8\\' => 17,
-        ),
     );
 
     public static $prefixDirsPsr4 = array (
         'TwitterVideoDownloader\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
-        ),
-        'Chrisyue\\PhpM3u8\\' => 
-        array (
-            0 => __DIR__ . '/..' . '/chrisyue/php-m3u8/src',
         ),
     );
 

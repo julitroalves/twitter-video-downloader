@@ -6,4 +6,4 @@ use \TwitterVideoDownloader\Downloader;
 
 $downloader = new Downloader();
 
-var_dump($downloader->download("https://twitter.com/maiconkusterk/status/1306577178293940224"));
+var_dump($downloader->download("https://twitter.com/i/status/1306552753636941824"));
