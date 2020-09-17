@@ -1,4 +1,4 @@
-# twitter-video-downloader
+# Twitter Video Downloader
 This package retrieves data from twitter api to get post details and url to download videos or images tweets.
 
 Install
